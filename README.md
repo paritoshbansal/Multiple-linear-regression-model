@@ -3,3 +3,17 @@ Using Machine learning algorithm build a simple linear regression model by perfo
 1. Create a simple linear regression model to predict mpg based on weight.
 2. Create a simple linear regression model to predict the Delivery time using Sorting time.
 
+Dependencies:
+Python
+
+Numpy
+
+Pandas
+
+Matplotlib
+
+Supervised Learning
+
+Machine Learning Algorithm
+
+Classification Algorithms
