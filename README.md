@@ -17,3 +17,15 @@ Supervised Learning
 Machine Learning Algorithm
 
 Classification Algorithms
+
+# This Notebook will show basic examples of:
+Data Handling
+
+Importing Data with Pandas
+
+Cleaning Data
+
+Exploring Data through Visualizations with Matplotlib
+
+# Data Analysis:
+Supervised Machine learning Techniques: + Multiple Linear Regression Model + Plotting results
